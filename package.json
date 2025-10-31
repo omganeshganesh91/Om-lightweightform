@@ -1,0 +1,55 @@
+{
+  "name": "om-lightweightform",
+  "version": "1.0.2",
+  "description": "A lightweight React hook for form validation without Formik or Yup.",
+
+  "scripts": {
+    "start": "parcel public/index.html"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "validation",
+    "form-validation",
+    "react-hook",
+    "validation-hook",
+    "input-validation",
+    "error-messages",
+    "realtime-validation",
+    "custom-validation",
+    "react-forms",
+    "form-check",
+    "type-checking",
+    "use-validation",
+    "field-validation",
+    "form-error-handling",
+    "react-validation-dev",
+    "validator",
+    "validator-dev",
+    "validation-dev",
+    "form library",
+    "React form hook",
+    "validation library",
+    "JavaScript validation",
+    "frontend validation",
+    "user input validation",
+    "form handling",
+    "React components",
+    "state management",
+    "error handling",
+    "form validation rules",
+    "lightweight",
+    "formik",
+    "yup"
+  ],
+  "author": "Om Ganesh S",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "peerDependencies": {
+    "react": ">=17"
+  }
+}
