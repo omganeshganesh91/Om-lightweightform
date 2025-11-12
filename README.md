@@ -8,6 +8,7 @@ A lightweight React hook for form validation without Formik or Yup.
 
 `om-lightweightform` is a simple Email,phone Validator, zero-dependency React hook that provides form validation capabilities. It allows you to manage form state, validate inputs based on custom rules, and handle form submissions easily. This hook is designed to be lightweight and easy to use, making it a great alternative to heavier libraries like Formik and Yup.
 
+Note: The Omlightweight-form React package is built using the latest React version and supports React 17 through 19.
 ## Installation
 
 Install the package via npm:
