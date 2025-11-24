@@ -1,6 +1,6 @@
 {
   "name": "om-lightweightform",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "A lightweight React hook for form validation without Formik or Yup.",
 
   "scripts": {
@@ -45,6 +45,7 @@
   ],
   "author": "Om Ganesh S",
   "license": "MIT",
+  "repository": "https://github.com/omganeshganesh91/Om-lightweightform",
   "devDependencies": {
     "parcel": "^2.8.3",
     "react": "^19.2.0",
